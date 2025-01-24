@@ -35,3 +35,11 @@ Este é um projeto desenvolvido como parte da trilha de aprendizado de **Back-En
 1. **Clone o Repositório**:
    ```bash
    git clone https://github.com/seu-usuario/consulta-cep-accenture.git
+
+### Aplicação
+
+O vídeo de demonstração está incluído no projeto. Você pode acessá-lo clicando no link abaixo:
+
+[Assista à Demonstração](Video-do-Endereco-‐-Feito-com-o-Clipchamp.gif)
+
+
